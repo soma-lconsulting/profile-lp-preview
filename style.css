@@ -10,7 +10,7 @@ body{font-family:'Manrope','Noto Sans JP',-apple-system,BlinkMacSystemFont,syste
 .lcons-bg{background:radial-gradient(70% 50% at 100% 0%,rgba(79,143,247,0.22) 0%,rgba(10,14,26,0) 60%),radial-gradient(40% 40% at 0% 100%,rgba(244,228,193,0.06) 0%,rgba(10,14,26,0) 70%),#0a0e1a}
 .cta-bg{background:radial-gradient(50% 50% at 50% 0%,rgba(79,143,247,0.25) 0%,rgba(10,14,26,0) 70%),#0a0e1a}
 .career-bg{background:#faf7f2}
-.neo-bg{background:radial-gradient(120% 80% at 100% 0%,rgba(244,228,193,0.35) 0%,transparent 60%),#faf7f0}
+.neo-bg{background:#faf7f2}
 .timerex-cta{background:linear-gradient(135deg,#2563eb 0%,#1152d4 60%,#0c3a99 100%);box-shadow:0 1px 0 rgba(255,255,255,0.15) inset,0 0 0 1px rgba(244,228,193,0.18) inset,0 14px 36px -12px rgba(17,82,212,0.6),0 6px 14px -6px rgba(0,0,0,0.3);position:relative}
 .timerex-cta::after{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(180deg,rgba(255,255,255,0.08) 0%,rgba(255,255,255,0) 50%);pointer-events:none}
 .timerex-cta:hover{box-shadow:0 1px 0 rgba(255,255,255,0.2) inset,0 0 0 1px rgba(244,228,193,0.3) inset,0 18px 44px -12px rgba(17,82,212,0.7),0 8px 16px -6px rgba(0,0,0,0.35)}
